@@ -2,4 +2,3 @@
 - I'm new to web design, scripts
 - I'm trying to learn at least to modify my projects
 - I want to feel free to configure phpbb and Joomla engines
-- My test projects are: https://mypastes.online/ & https://forum.mypastes.online/
